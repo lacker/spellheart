@@ -35,15 +35,7 @@ def check(word, ignore_collision=False):
 
 # With the puzzles printed out, you can use a letter multiple times.
 # Write out the blanks and put a circle where the clue-letter or clue-letters go
-
-# under bed
-# theme: flowers
-check("buttercup")
-check("snapdragon")
-check("foxglove")
-check("morningglory")
-check("bluebell")
-check("goldenrod")
+# I am not sure but I think this goes from easiest to hardest.
 
 # colander
 # theme: trees
@@ -63,3 +55,12 @@ check("squirrel", True)
 check("seaotter", True)
 check("opossum", True)
 check("bananaslug")
+
+# under bed
+# theme: flowers
+check("buttercup")
+check("snapdragon")
+check("foxglove")
+check("morningglory")
+check("bluebell")
+check("goldenrod")
