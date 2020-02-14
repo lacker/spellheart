@@ -56,3 +56,10 @@ check("eucalyptus")
 check("redbud", True)
 
 # dustpan
+# theme: animals
+check("mallard")
+check("bluewhale")
+check("squirrel", True)
+check("seaotter", True)
+check("opossum", True)
+check("bananaslug")
